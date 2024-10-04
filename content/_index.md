@@ -13,7 +13,7 @@ sections:
       title: Park Ji Won
       text: 🖥️ Jeonbuk University Student 🖥️
                 
-      primary_action:
+      secondary_action:
         text: computer engineering major
         url: https://csai.jbnu.ac.kr/csai/index.do
         icon: 
