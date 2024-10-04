@@ -13,7 +13,7 @@ sections:
       title: Park Ji Won
       text: 🖥️ Jeonbuk University Student 🖥️
                 
-      secondary_action:
+      primary_action:
         text: computer engineering major
         url: https://csai.jbnu.ac.kr/csai/index.do
         icon: 
@@ -33,6 +33,32 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
+
+  -block: social
+    conent:
+      - icon: envelope
+        icon_pack: fas
+        link: 'mailto: wldnjs4685@gmail.com' # For a direct email link, use "mailto:test@example.org".
+      - icon: instagram
+        icon_pack: fab
+        link: https://www.instagram.com/jiwon_1865/
+      - icon: github
+        icon_pack: fab
+        link: https://github.com/jiwon887 
+      - icon: twitter
+        icon_pack: fab
+        name: SNS example
+        url: 'https://twitter.com/Twitter'
+      - icon: discord
+        icon_pack : fab
+        name: Discord
+        url: https://discord.gg/DQgpwGWm
+      - icon: youtube
+        icon_pack : fab
+        name: youtube
+        url: https://youtube.com/
+
+
   - block: stats
     content:
       items:
