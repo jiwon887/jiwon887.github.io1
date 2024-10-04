@@ -10,20 +10,16 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Park Ji Won
+      text: 🖥️ Jeonbuk University Student 🖥️
+                
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
+        text: computer engineering major
+        pdf_url: https://csai.jbnu.ac.kr/csai/index.do
+        #icon: 
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+        text: Academic Club
+        url: https://github.com/JBNU-CPU
     design:
       spacing:
         padding: [0, 0, 0, 0]
