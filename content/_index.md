@@ -15,7 +15,7 @@ sections:
                 
       primary_action:
         text: computer engineering major
-        pdf_url: https://csai.jbnu.ac.kr/csai/index.do
+        url: https://csai.jbnu.ac.kr/csai/index.do
         icon: 
       secondary_action:
         text: Academic Club
